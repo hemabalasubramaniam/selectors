@@ -1,0 +1,51 @@
+*{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 10px;
+}
+h1,h2{
+    color:black;
+    font-weight: medium;
+    font-size: 25px;
+}
+body{
+    margin-left: 260px;
+    margin-right: 260px;
+    background-color:rgb(194, 248, 250);
+}
+p,h1,h2{
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    display:block;
+}
+.nature,#text{
+    text-align: center;
+}
+#link{
+    text-align: center;
+}
+img{
+    width: 70%;
+    height: 400;
+    margin-left: 170px;
+    margin-right: 170px;
+    background-repeat: no-repeat;
+}
+h1:link{
+    color: brown;
+}
+h1:hover{
+    color: rgb(250, 255, 205);
+}
+a:hover{
+     width: 300;
+     height: 200;
+     background-color: grey;
+}
+a:visited{
+    color:rgb(228, 9, 28);
+}
+a:active{
+    color: black;
+}
